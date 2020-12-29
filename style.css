@@ -1,0 +1,103 @@
+body{
+  font-style: Montserrat;
+}
+#title{
+  text-align: left;
+  padding: 30px;
+  background-image: url("image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 5%;
+}
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+.navbar{
+  font-size: 1.2rem;
+  margin-bottom: 50px;
+  font-family: "Montserrat";
+  font-weight: lighter;
+  padding-left: 0;
+}
+h2
+{
+  text-align: center;
+padding-bottom: 50px;
+}
+h4{
+  padding: 10px;
+  text-align: center;
+}
+h6{
+  display: inline-block;
+  margin: 5px;
+}
+.pie{
+  width: 50%;
+  height: 50%;
+  margin: auto;
+  padding: 2%;
+  margin-bottom: 30px;
+}
+.survey{
+  text-align: center;
+}
+.ques{
+  margin: 50px 0;
+}
+.circle{
+ border-radius: 50%;
+ margin: 10px;
+ display: inline-block;
+}
+
+.red-big{
+  height: 60px;
+  width: 60px;
+  border: 3px solid #b83b5e;
+  border-style: ridge;
+  /* background-color: #b83b5e; */
+}
+
+.red-small{
+  height: 40px;
+  width: 40px;
+  border: 3px solid #f9c0c0;
+    border-style: ridge;
+  /* background-color: #f9c0c0; */
+}
+
+.neutral{
+  height: 30px;
+  width: 30px;
+  border: 3px solid #d6e0f0;
+    border-style: ridge;
+  /* background-color: #d6e0f0; */
+}
+
+.green-small{
+  height: 40px;
+  width: 40px;
+  border: 3px solid #a2de96;
+    border-style:ridge;
+  /* background-color: #a2de96; */
+}
+
+.green-big{
+  height: 60px;
+  width: 60px;
+  border: 3px solid #61b15a;
+    border-style: ridge;
+  /* background-color: #61b15a; */
+}
+
+.stats{
+  text-align: center;
+  background-color: #e0dede;
+  padding: 30px;
+}
+
+.foot {
+    text-align: -webkit-center;
+
+}
